@@ -1,4 +1,4 @@
-# Module 7 - Beginner Lab: [Hello-World Smart Contract][hello-world] Using [Remix Solidity IDE][Remix]
+# Module 7 - Beginner Lab: [Hello-World Smart Contract][hello-world]
 
 ## Meta Information
 | Attribute | Explanation |
