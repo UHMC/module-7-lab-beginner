@@ -1,5 +1,8 @@
 # Module 7 - Beginner Lab: [Hello-World Smart Contract][hello-world]
 
+## Background
+Smart Contracts can be implemented through the use of blockchain technology with the Ethereum network. They allow for binding agreements between network participants that are enforced by network consensus instead of a third party. This assignment looks at a simple "Hello, World!" example of Solidity, a programming language for creating Smart Contracts.
+
 ## Meta Information
 | Attribute | Explanation |
 | - | - |
