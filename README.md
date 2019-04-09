@@ -7,7 +7,7 @@ Smart Contracts can be implemented through the use of blockchain technology with
 | Attribute | Explanation |
 | - | - |
 | Summary | Create and interact with a [basic smart contract][hello-world]. |
-| Topics  | Solidity programming, blockchain development. |
+| Topics | Solidity programming, blockchain development. |
 | Audience | Appropriate for CS1 or a later course. |
 | Difficulty | Completing the assignment is easy, as it is just deploying a [pre-made, hello-world contract][hello-world]. |
 | Strengths | The strength of this assignment is that it allows students to get exposed to technology that they hear about often (blockchain) and is a starting point for further work. |
