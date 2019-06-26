@@ -20,11 +20,11 @@ Smart Contracts can be implemented through the use of blockchain technology with
 2. In Remix, create a new file named `hello_world.sol` by clicking the plus symbol at the top left.
     ![plus-symbol.png](screenshots/plus-symbol.png)  
 3. Copy [the code][hello-world] and paste into the newly created file in Remix.
-4. Click on the plug icon in the left-most pane of Remix.
+4. Click on the plug icon in the left-most pane of Remix.  
     ![plug-icon.png](screenshots/plug-icon.png)  
 5. Activate the `Deploy & Run Transactions` and `Solidity Compiler` plugins.
     ![plugins-to-activate.png](screenshots/plugins-to-activate.png)  
-    You should see two new icons in the leftmost pane: one, the solidity compiler, looks like an "s" ![solidity-compiler-icon.png](screenshots/solidity-compiler-icon.png) and the other, deploy and run, is the ethereum symbol with an arrow to the right ![deploy-and-run-icon.png](screenshots/deploy-and-run-icon.png).
+    You should see two new icons in the leftmost pane: one, the solidity compiler, looks like an "s" ![solidity-compiler-icon.png](screenshots/solidity-compiler-icon.png) and the other, deploy and run, is the ethereum symbol with an arrow to the right ![deploy-and-run-icon.png](screenshots/deploy-and-run-icon.png).  
     ![activated-plugin-icons.png](screenshots/activated-plugin-icons.png)  
 6. Click the solidity compiler plugin icon ![solidity-compiler-icon.png](screenshots/solidity-compiler-icon.png).
 7. Click the `Compile hello_world.sol` button and wait for compilation to complete.
