@@ -15,7 +15,7 @@ Smart Contracts can be implemented through the use of blockchain technology with
 | Dependencies | [Provided hello-world code][hello-world] and internet access (for use of [the Remix IDE][Remix]). |
 | Variants | Could be used to introduce Smart Contracts in any course setting. |
 
-## Assignment Instructions
+## Assignment Instructions (10 Minutes)
 1. Navigate to [Remix at remix.ethereum.org][Remix].
 2. In Remix, create a new file named `hello_world.sol` by clicking the plus symbol at the top left.  
     ![plus-symbol.png](screenshots/plus-symbol.png)  
