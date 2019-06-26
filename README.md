@@ -21,6 +21,7 @@ Smart Contracts can be implemented through the use of blockchain technology with
     ![plus-symbol.png](screenshots/plus-symbol.png)  
     ![create-new-file.png](screenshots/create-new-file.png)  
 3. Copy [the code][hello-world] and paste into the newly created file in Remix.
+    ![code-pasted.png](screenshots/code-pasted.png)  
 4. Click on the plug icon in the left-most pane of Remix.  
     ![plug-icon.png](screenshots/plug-icon.png)  
 5. Activate the `Deploy & Run Transactions` and `Solidity Compiler` plugins.
