@@ -37,12 +37,12 @@ Smart Contracts can be implemented through the use of blockchain technology with
     ![contract-deployed.png](screenshots/contract-deployed.png)
 10. Click the small arrow to the left of the deployed contract address to reveal the function calls available.
     ![deployed-contract-view.png](screenshots/deployed-contract-view.png)  
-8. Click on the _printHello_ function to see the output "0: string: Hello, World".
+11. Click on the _printHello_ function to see the output "0: string: Hello, World".
     ![print-hello-called.png](screenshots/print-hello-called.png)  
-9. Click on the _die_ function to remove the smart contract from the blockchain.
+12. Click on the _die_ function to remove the smart contract from the blockchain.
     ![die-called.png](screenshots/die-called.png)  
     * Note: In this case, we are not using any official blockchain, but one created within a JavaScript virtual machine to test our code.
-10. Clicking on _printHello_ again afterward should give an error since the contract is dead.
+13. Clicking on _printHello_ again afterward should give an error since the contract is dead.
     ![print-hello-called-again.png](screenshots/print-hello-called-again.png)
 
 ## Credits
