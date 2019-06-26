@@ -17,8 +17,9 @@ Smart Contracts can be implemented through the use of blockchain technology with
 
 ## Assignment Instructions
 1. Navigate to [Remix at remix.ethereum.org][Remix].
-2. In Remix, create a new file named `hello_world.sol` by clicking the plus symbol at the top left.
+2. In Remix, create a new file named `hello_world.sol` by clicking the plus symbol at the top left.  
     ![plus-symbol.png](screenshots/plus-symbol.png)  
+    ![create-new-file.png](screenshots/create-new-file.png)  
 3. Copy [the code][hello-world] and paste into the newly created file in Remix.
 4. Click on the plug icon in the left-most pane of Remix.  
     ![plug-icon.png](screenshots/plug-icon.png)  
