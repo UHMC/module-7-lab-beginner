@@ -35,7 +35,7 @@ Smart Contracts can be implemented through the use of blockchain technology with
     ![compiler-checkmark.png](screenshots/compiler-checkmark.png)  
 8. Click the deploy-and-run plugin icon ![deploy-and-run-icon.png](screenshots/deploy-and-run-icon.png), and then click the orange `Deploy` button ![orange-deploy-button.png](screenshots/orange-deploy-button.png).
     ![deploy-and-run-view.png](screenshots/deploy-and-run-view.png)  
-9. A smart contract, **HelloWorld** will be deployed in memory.
+9. A smart contract, **HelloWorld** will be deployed to the blockchain.
     ![contract-deployed.png](screenshots/contract-deployed.png)
 10. Click the small arrow to the left of the deployed contract address to reveal the function calls available.
     ![deployed-contract-view.png](screenshots/deployed-contract-view.png)  
